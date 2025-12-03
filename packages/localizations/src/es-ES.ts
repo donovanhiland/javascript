@@ -740,7 +740,7 @@ export const esES: LocalizationResource = {
       subtitle: 'para continuar a {{applicationName}}',
       subtitleCombined: undefined,
       title: 'Entrar',
-      titleCombined: undefined,
+      titleCombined: 'Continuar a {{applicationName}}' ,
     },
     totpMfa: {
       formTitle: 'Código de verificación',
